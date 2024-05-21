@@ -1,6 +1,6 @@
 # Introduction
 
-The goal of this assignment is to have you create and query a database system of flowers. You are asked to submit a file named flowers.sql containing all the necessary SQL commands to create a database (named flowers) with a few tables according to a predefined schema, populate those tables with some initial data, and query your database. Because this is a small database, you can use INSERT INTO syntax to populate your tables. 
+The goal of this assignment is to have you create and query a database system of flowers. You are asked to submit a file named **flowers.sql** containing all the necessary SQL commands to create a database with the same name and a few tables according to a predefined schema, populate those tables with some initial data, and query your database. Because this is a small database, you can use INSERT INTO syntax to populate your tables. 
 
 Your **flowers.sql** file MUST have a comment section in the beginning with the name(s) of the author(s) of the project.  You are allowed to work together with another classmate.  You will have points deducted if you fail to properly identify the names of all of the participants of the project. 
 
