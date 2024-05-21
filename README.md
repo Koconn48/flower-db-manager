@@ -1,14 +1,14 @@
 # Introduction
 
-The goal of this assignment is to have you create and query a database system of flowers. You are asked to submit a file named **flowers.sql** containing all the necessary SQL commands to create a database with the same name and a few tables according to a predefined schema, populate those tables with some initial data, and query your database. Because this is a small database, you can use INSERT INTO syntax to populate your tables. 
+The goal of this assignment is to have you create and query a database system of flowers. You are asked to submit a file named **flowers.sql** containing all the necessary SQL commands to create a database with the same name and a few tables according to a predefined schema, populate those tables with some initial data, and query your database. Because this is a small database, you will be using **INSERT INTO** SQL syntax to populate your tables. 
 
-Your **flowers.sql** file MUST have a comment section in the beginning with the name(s) of the author(s) of the project.  You are allowed to work together with another classmate.  You will have points deducted if you fail to properly identify the names of all of the participants of the project. 
+Your **flowers.sql** file MUST have a comment section in the beginning with the name(s) of the author(s) of the project. Use the provided template! You are allowed to work together with another classmate.  You will have points deducted if you fail to properly identify the names of all of the participants of the project. 
 
 # Zones
 
 A flower vendor wants to market flowers that can be grown in a variety of zones. These zones define a range for the lowest (or highest) temperatures that the plants can accept during the year. See map below that illustrates the plant zones in the U.S. according to the United States Department of Agriculture (USDA). 
 
-![pic1.png](pics/pic1.png)
+![pic1.jpeg](pics/pic1.jpeg)
 
 Create a table named **Zones** with the attributes and assumptions indicated below.
 
