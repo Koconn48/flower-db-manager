@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pTVdABVF)
 # Introduction
 
 The goal of this assignment is to have you create and query a database system of flowers. You are asked to submit a file named **flowers.sql** containing all the necessary SQL commands to create a database with the same name and a few tables according to a predefined schema, populate those tables with some initial data, and query your database. Because this is a small database, you will be using **INSERT INTO** SQL syntax to populate your tables. 
